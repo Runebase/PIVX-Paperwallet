@@ -1,2 +1,2 @@
-# PIVX-Paperwallet
-PIVX Paper Wallet Generator with BIP38 Encryption/Decryption
+# RUNEBASE-Paperwallet
+RUNEBASE Paper Wallet Generator with BIP38 Encryption/Decryption
